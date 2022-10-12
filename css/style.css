@@ -117,7 +117,7 @@ header .navbar .navbar-toggler {
   color: rgba(238, 238, 238, 0.767);
 }
 .dark .about {
-  background-color: #222;
+  background-color: #131313;
 }
 .dark .about .about__top h3 {
   color: #fff;
@@ -128,7 +128,7 @@ header .navbar .navbar-toggler {
 .dark .about .about__bottom .about__card {
   background-color: black;
   box-shadow: none;
-  border: 1px solid #2c3038;
+  border: 1px solid white;
 }
 .dark .about .about__bottom .about__card h4 {
   color: #fff;
@@ -150,7 +150,7 @@ header .navbar .navbar-toggler {
   background-color: black;
 }
 .dark .explore__card-1 {
-  background-color: #222;
+  background-color: #131313;
 }
 .dark .explore__card-1 h4 a {
   color: white;
@@ -705,7 +705,7 @@ select {
   height: 50px;
   width: 50px;
 
-  background-color: #dc4f72;
+  background-color:#dc4f72;
   display: flex;
   justify-content: center;
   align-items: center;
