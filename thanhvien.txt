@@ -1,4 +1,3 @@
 Võ Văn Kiệt
 -chọn trang home trên nav
--làm từ đầu cho đến phần Explore Solutions và back to top.
 ***note: bạn làm chung bỏ bài mà đến cuối mới báo e có nói mentor rồi.
